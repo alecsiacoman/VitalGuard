@@ -1,0 +1,6 @@
+{
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "files.associations": {
+        "cmath": "cpp"
+    }
+}
